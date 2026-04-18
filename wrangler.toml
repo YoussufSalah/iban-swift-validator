@@ -1,0 +1,6 @@
+name = "iban-swift-validator-and-bank-metadata"
+main = "src/index.ts"
+compatibility_date = "2026-04-18"
+compatibility_flags = ["nodejs_compat"]
+
+# Free tier limits: 100k req/day, 10ms CPU avg. No KV/DO needed.
